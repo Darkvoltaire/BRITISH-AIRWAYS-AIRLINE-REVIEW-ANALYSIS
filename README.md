@@ -1,5 +1,5 @@
 # BRITISH-AIRWAYS-AIRLINE-REVIEW-ANALYSIS : PROJECT OVERVIEW
-. I honed my web scraping skills by extracting valuable insights from online sources.
+  > I honed my web scraping skills by extracting valuable insights from online sources.
   Using web scraping tools and libraries, I gathered relevant data to uncover company activities and industry trends. 
   This experience equipped me with the ability to transform raw data into actionable insights for informed decision-making.
 
