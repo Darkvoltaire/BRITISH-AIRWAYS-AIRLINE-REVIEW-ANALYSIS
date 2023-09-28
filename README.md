@@ -24,7 +24,7 @@ the data was scrapped into the following column
 - The frequency chart below shows that the key topics within the reviews include “service”, “seat”, “crew” and “food”, showing that 
 people are actively talking about their experience and hospitality
 
-![frequency](download (1).png)
+![frequency](download(1).png)
 
 
 # Sentiment Analysis
