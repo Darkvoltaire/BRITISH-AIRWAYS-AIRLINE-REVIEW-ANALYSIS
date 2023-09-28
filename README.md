@@ -22,4 +22,4 @@ the data was scrapped into the following column
 
 # Sentiment Analysis
 with Sentiment analysis performed on the scrapped data, we could see the sentiment of the customers reviews 
-
+![Sentiment](download.png)
