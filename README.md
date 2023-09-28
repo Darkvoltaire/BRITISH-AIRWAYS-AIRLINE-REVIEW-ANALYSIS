@@ -19,10 +19,19 @@ the data was scrapped into the following column
 - Date Flown
 - Recommended
 - Review
-
-# Sentiment Analysis
-with Sentiment analysis performed on the scrapped data, we could see the sentiment of the customers reviews 
-
-![Sentiment score of Customer reviews](download.png)
+ 
+# Key topics
+- The frequency chart below shows that the key topics within the reviews include “service”, “seat”, “crew” and “food”, showing that 
+people are actively talking about their experience and hospitality
 
 ![frequency](download(1).png)
+
+
+# Sentiment Analysis
+
+With Sentiment analysis performed on the scrapped data, we could see the sentiment of the customers reviews 
+- Out of over 3000 reviews, 59.1% were positive, 40.6% were negative and 0.3% were neutral. 
+- This means the majority of reviews were polarised as either positive or negative
+  
+![Sentiment score of Customer reviews](download.png)
+
